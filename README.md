@@ -3,7 +3,7 @@
 
 ## About Me 🚀
 
-I'm a product marketing leader focused on AI and enterprise SaaS, with experience bringing complex, technical products to market. I specialize in turning cutting-edge capabilities—like voice agents and AI systems—into clear, compelling products that customers understand and adopt..
+I'm a product marketing leader focused on AI and enterprise SaaS, with experience bringing complex, technical products to market. I specialize in turning cutting-edge capabilities into clear, compelling products that customers understand and adopt..
 
 - 🌱 **Currently learning**: Building lightweight AI agents and experimenting with prompt frameworks for real-world workflows
 - 🔭 **Working on**: Experimenting with how AI can structure and scale product storytelling, from demos to positioning to customer-facing narratives
